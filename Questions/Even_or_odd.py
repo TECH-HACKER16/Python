@@ -1,4 +1,4 @@
-def even():
+def fn():
    
     num = int(input("Enter an Integer :"))
 
@@ -8,5 +8,5 @@ def even():
         print(f"{num} is odd")
 
 
-even()
+fn()
 

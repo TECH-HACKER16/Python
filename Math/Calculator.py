@@ -3,6 +3,7 @@ import math
 def square_root():
     x = int(input("\nEnter your number : "))
     print("\nSquare root of ", x, "is ", math.sqrt(x))
+    
 def cube_root():
     x = int(input("\nEnter your number : "))
     print("\nCube root of ", x, "is ", math.cbrt(x))
